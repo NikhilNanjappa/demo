@@ -1,13 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "taskplans": {
+   "idPortfolioUser" : 123451,
+   "tasksPlans": [{
+      "id": 1,
+      "title": "Task Plan 1",
+      "hidden": false,
+      "periodFormat": "monthly|bi-weekly|weekly",
+      "dtStart": "01/01/2019",
+      "tasks": [{
+        "id": 1,
+        "title": "Task 1",
+        "ref": "T1-RDummy",
+        "timing": 120,
+        "ojtTask": true,
+        "dtOrigStart": "01/04/2018",
+        "dtOrigTarget": "01/05/2019",
+        "dtStart": "01/01/2019",
+        "dtTarget": "01/09/2019",
+        "taskType": "webform",
+        "idStatus": 1,
+        "status": "set"
+      }]
+   }]
+  },
   "slider": {
     "startDate": "01/01/2019",
     "hotpoints": [
