@@ -39,12 +39,12 @@
       {
         "title": "Month 3",
         "status": "Completed",
-        "currentPeriod": false
+        "currentPeriod": true
       },
       {
         "title": "Month 4",
         "status": "Completed",
-        "currentPeriod": true
+        "currentPeriod": false
       }
     ]
   }
