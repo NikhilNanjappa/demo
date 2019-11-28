@@ -1,28 +1,110 @@
 {
-  "taskplans": {
-   "idPortfolioUser" : 123451,
-   "tasksPlans": [{
-      "id": 1,
-      "title": "Task Plan 1",
-      "hidden": false,
-      "periodFormat": "monthly|bi-weekly|weekly",
-      "dtStart": "01/01/2019",
-      "tasks": [{
-        "id": 1,
-        "title": "Task 1",
-        "ref": "T1-RDummy",
-        "timing": 120,
-        "ojtTask": true,
-        "dtOrigStart": "01/04/2018",
-        "dtOrigTarget": "01/05/2019",
-        "dtStart": "01/01/2019",
-        "dtTarget": "01/09/2019",
-        "taskType": "webform",
-        "idStatus": 1,
-        "status": "set"
-      }]
-   }]
-  },
+  "tasks": [
+    {
+      "id": {
+        "header": "ID",
+        "value": "1"
+      },
+      "title": {
+        "header": "Title"
+        "value": "Task 1"
+      },
+      "dtStart": {
+        "header": "Start Date",
+        "value": "01/01/2019"
+      },
+      "dtTarget": {
+        "header": "Due Date",
+        "value": "01/08/2019"
+      }
+      "taskType": {
+        "header": "Type",
+        "value": "webform"
+      },
+      "status": {
+        "header": "Status",
+        "value": "completed"
+      }
+    },
+    {
+      "id": {
+        "header": "ID",
+        "value": "2"
+      },
+      "title": {
+        "header": "Title"
+        "value": "Task 2"
+      },
+      "dtStart": {
+        "header": "Start Date",
+        "value": "05/10/2018"
+      },
+      "dtTarget": {
+        "header": "Due Date",
+        "value": "01/12/2019"
+      }
+      "taskType": {
+        "header": "Type",
+        "value": "certificate"
+      },
+      "status": {
+        "header": "Status",
+        "value": "set"
+      }
+    },
+    {
+      "id": {
+        "header": "ID",
+        "value": "3"
+      },
+      "title": {
+        "header": "Title"
+        "value": "Task 3"
+      },
+      "dtStart": {
+        "header": "Start Date",
+        "value": "05/11/2018"
+      },
+      "dtTarget": {
+        "header": "Due Date",
+        "value": "01/09/2019"
+      }
+      "taskType": {
+        "header": "Type",
+        "value": "course"
+      },
+      "status": {
+        "header": "Status",
+        "value": "set"
+      }
+    },
+    {
+      "id": {
+        "header": "ID",
+        "value": "4"
+      },
+      "title": {
+        "header": "Title"
+        "value": "Task 4"
+      },
+      "dtStart": {
+        "header": "Start Date",
+        "value": "21/02/2019"
+      },
+      "dtTarget": {
+        "header": "Due Date",
+        "value": "14/04/2019"
+      }
+      "taskType": {
+        "header": "Type",
+        "value": "poll"
+      },
+      "status": {
+        "header": "Status",
+        "value": "overdue"
+      }
+    }
+  ],
   "slider": {
     "startDate": "01/01/2019",
     "hotpoints": [
