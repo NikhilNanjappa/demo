@@ -6,7 +6,7 @@
         "value": "1"
       },
       "title": {
-        "header": "Title"
+        "header": "Title",
         "value": "Task 1"
       },
       "dtStart": {
@@ -32,7 +32,7 @@
         "value": "2"
       },
       "title": {
-        "header": "Title"
+        "header": "Title",
         "value": "Task 2"
       },
       "dtStart": {
@@ -58,7 +58,7 @@
         "value": "3"
       },
       "title": {
-        "header": "Title"
+        "header": "Title",
         "value": "Task 3"
       },
       "dtStart": {
@@ -84,7 +84,7 @@
         "value": "4"
       },
       "title": {
-        "header": "Title"
+        "header": "Title",
         "value": "Task 4"
       },
       "dtStart": {
