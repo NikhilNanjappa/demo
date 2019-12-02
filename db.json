@@ -1,6 +1,13 @@
 {
   "tasks": {
-    "displayedColumns": ["id", "title", "dtStart", "dtTarget", "taskType", "status"],
+    "displayedColumns": [
+      { "id": "id", headerValue: "ID" },
+      { "id": "title", headerValue: "Task Name" },
+      { "id": "dtStart", headerValue: "Created on" },
+      { "id": "dtTarget", headerValue: "Due Date" },
+      { "id": "taskType", headerValue: "Type" },
+      { "status": "status", headerValue: "Status" },
+    ],
     "dataSource": [
       {
         "id": "1",
