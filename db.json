@@ -19,6 +19,7 @@
         "status": "completed",
         "actions": {
           "text": "View Task",
+          "routeURL": "/myfiles"
           "options": [
             { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
             { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
@@ -34,6 +35,7 @@
         "status": "set",
         "actions": {
           "text": "View Task",
+          "routeURL": "/myfiles"
           "options": [
             { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
             { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
@@ -49,6 +51,7 @@
         "status": "set",
         "actions": {
           "text": "View Task",
+          "routeURL": "/myfiles"
           "options": [
             { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
             { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
@@ -64,6 +67,7 @@
         "status": "overdue",
         "actions": {
           "text": "View Task",
+          "routeURL": "/myfiles"
           "options": [
             { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
             { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
@@ -79,6 +83,7 @@
         "status": "overdue",
         "actions": {
           "text": "View Task",
+          "routeURL": "/myfiles"
           "options": [
             { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
             { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
@@ -94,6 +99,7 @@
         "status": "overdue",
         "actions": {
           "text": "View Task",
+          "routeURL": "/myfiles"
           "options": [
             { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
             { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
@@ -109,6 +115,7 @@
         "status": "overdue",
         "actions": {
           "text": "View Task",
+          "routeURL": "/myfiles"
           "options": [
             { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
             { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
