@@ -35,8 +35,8 @@
         "actions": {
           "text": "View Task",
           "options": [
-            { "icon": "edit", "text": "Edit Task" },
-            { "icon": "delete", "text": "Delete Task" }
+            { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
+            { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
           ]
         }
       },
@@ -50,8 +50,8 @@
         "actions": {
           "text": "View Task",
           "options": [
-            { "icon": "edit", "text": "Edit Task" },
-            { "icon": "delete", "text": "Delete Task" }
+            { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
+            { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
           ]
         }
       },
@@ -65,8 +65,8 @@
         "actions": {
           "text": "View Task",
           "options": [
-            { "icon": "edit", "text": "Edit Task" },
-            { "icon": "delete", "text": "Delete Task" }
+            { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
+            { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
           ]
         }
       },
@@ -80,8 +80,8 @@
         "actions": {
           "text": "View Task",
           "options": [
-            { "icon": "edit", "text": "Edit Task" },
-            { "icon": "delete", "text": "Delete Task" }
+            { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
+            { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
           ]
         }
       },
@@ -95,8 +95,8 @@
         "actions": {
           "text": "View Task",
           "options": [
-            { "icon": "edit", "text": "Edit Task" },
-            { "icon": "delete", "text": "Delete Task" }
+            { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
+            { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
           ]
         }
       },
@@ -110,8 +110,8 @@
         "actions": {
           "text": "View Task",
           "options": [
-            { "icon": "edit", "text": "Edit Task" },
-            { "icon": "delete", "text": "Delete Task" }
+            { "icon": "edit", "text": "Edit Task", "routeURL": "/overdue" },
+            { "icon": "delete", "text": "Delete Task", "routeURL": "/ojtprogress" }
           ]
         }
       }
