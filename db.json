@@ -3,7 +3,6 @@
     "displayedColumns": [
       { "id": "id", "headerValue": "ID" },
       { "id": "title", "headerValue": "Task Name" },
-      { "id": "dtStart", "headerValue": "Created on" },
       { "id": "dtTarget", "headerValue": "Due Date" },
       { "id": "taskType", "headerValue": "Type" },
       { "id": "status", "headerValue": "Status" }
